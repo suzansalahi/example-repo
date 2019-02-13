@@ -2,3 +2,9 @@
 this is the second file.
 
 ### added ssh key
+
+hello world
+
+this is my first day in git & github 
+
+having fun :)
